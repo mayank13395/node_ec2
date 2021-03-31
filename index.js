@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
 });
 
 
-app.listen(5000, () => {
-    console.log("microservice-2 is listening on port 6000");
+app.listen(4000, () => {
+    console.log("microservice-2 is listening on port 4000");
 });
 
